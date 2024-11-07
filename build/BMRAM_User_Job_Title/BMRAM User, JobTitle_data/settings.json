@@ -1,0 +1,12 @@
+{
+    "read_col": "A",
+    "write_Email": "B",
+    "write_Title": "C",
+    "should_write_email": true,
+    "should_write_title": true,
+    "add_drop_down_filter": true,
+    "open_when_done": false,
+    "halt_on_error": false,
+    "create_new_excel": false,
+    "sheet": "Sheet1"
+}
